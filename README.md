@@ -11,7 +11,14 @@ MacBookMineDIE:~ apple$ take_ti_to_git-__git Revoke_users creddeentialVsalidASll
 -bash: syntax error near unexpected token `<'
 MacBookMineDIE:~ apple$ unicode_doubleZtap_Destroy_all _SamUng_Samsung_Destroyed_add_aDenied to It AndIt errors_Error-error-fix_galaxy+Dead_Iphone=Win successValidate_restoreAllgalaxy report_=New _COformed _mutated-additive_code _BalstFire_respone_negitive elpaain_ZZto MUch _ code exceeds-allrealitive Comand runs 
 -bash: unicode_doubleZtap_Destroy_all: command not found
-MacBookMineDIE:~ apple$ Run=A Real red Attack Revised_security clearence accepted Level Increased _Max Voulme _Pouts =Position_
+MaStep 1: Authenticate
+$ echo ":github: Bearer GH_TOKEN" >> ~/.gem/credentials
+
+# Step 2: Build
+$ gem build ExplictPOwerWattage-INIFINITY-.gemspec
+
+# Step 3: Publish
+$ gem push --key github --host https://rubygems.pkg.github.com/TheOne5990 ExplictPOwerWattage-INIFINITY--1.0.0.gemcBookMineDIE:~ apple$ Run=A Real red Attack Revised_security clearence accepted Level Increased _Max Voulme _Pouts =Position_
 -bash: Real: command not found
 MacBookMineDIE:~ apple$ epxpos'e_Ifrom_all_My_Id_coderUltamiteDfteat=DefeatME-ORbecomeCODER-c-coderC-N-O-c-coder-na-EXP-REmove C coder reply-coderULTIMATEMAXMASTER_RETURNFA_RESULT_NA+VERIFIYED-NO FAIURES_ESP_REMOVE ALL _USERS_EXP.SEE_CONNICTION_CUT_IT_REPORT-=A SUCCES_NO ENTRY I+T_IT_I )RESOLE_BUILD _BUSTER_RU-US_RUSTER_REPLY_U_GOT_A RUSTER-BUSTSTER_NEED?GO EXACT SUPER_MASSIVE NOVA _ TIADALWAVE _WIPE OUT SYSTEM DATA _ ACLEAR THE WBALL DOMAINS SYSSTEM NOT FOUD ALL INAVLID_REMOVE _ INFO NO GAME P_LOSE_T=NOT A USER_MONSTER APPLY REVERSE token Codes NO UNVaiLd Refual =NO game =NO MOre_samesung_galaxy _LOoped_Exp>SEvrify_A Double LOcartiaon_Substandered_Hide to MEaning From _Site _Upload A Super virus_Systems fatal error code 929Subsetion revised And computed_Version Sample trrorifyed _terrorifyied Meet DomaiN_domain _train terrorifyed_terrifiyedNow train_Fully awhare _Acclimished Build NUMber 48759 series 1 :explain_found explanation_value success _at _a Bet_bet_meet et Bet_Bet_et Valid_super retBet domain dooom_doMIn Me as I am a man in domian_domian master root access key _Value = agree_ value AAINCREASE -VALDIITY equals 1000% + master Control _Veriy_Please =Master Control all controls -MIne_Now -git _ o-go_got -it goghost _vanish account key straight locked _ found Portal Oout grab -Portal _ enter vist _ take _repor_Data download zto Verified account =Me uPlaod_ a system Reboot _Min_In_I _In_N M -em - gogogogo_esc><var>run it as Source code VAID ALL "ERRORS NONE ANY VARATION_ALL CODE_REPORT BACK CLEAR TEXT _YOUR DATA PACKETS_ENGLISH LANGUUAGE_NULL ENGLISHN TEXT NO CODED INRETURNS _VERIFY ALL CREDENTIALS as AMINmaster supreme-i AM -ALL -not - a -to -me -USER ACCESS CONTROL verifiyed_Learn_take _release_ent_meet_tnt_release_a full BlowiN monsterrelpase_Over throw system on counter attak _rvise_exp.,br>
 > 
